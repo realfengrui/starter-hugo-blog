@@ -1,7 +1,8 @@
 ---
-title: Nelson Bighetti
-role: Professor of Artificial Intelligence
-bio: "My research interests "
+title: Fengrui Jing
+role: PhD Graduate in GIScience
+bio: My research interests focus on the relationship between urban environment
+  and human health.
 social:
   - icon: envelope
     icon_pack: fas
@@ -17,7 +18,8 @@ organizations:
     url: ""
 superuser: true
 ---
+Fengrui is a fresh PhD graduate in Geography (Cartography and Geographic Information Science), supervised by Prof. Dr. Lin Liu at University of Cincinnati. He is a member of AGA-YGWG (Asian Geographical Association - Young Geographer Working Group). His research interests focus on the relationship between urban environment and human health, namely,
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+* Environmental interaction and perception
+* Spatiotemporal analysis based on multi-source data
+* Theoretical and methodological development pertaining to urban studies

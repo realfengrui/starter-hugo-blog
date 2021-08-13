@@ -1,8 +1,6 @@
 ---
 title: 毕业2021
-subtitle: Welcome 👋 We know that first impressions are important, so we've
-  populated your new site with some initial content to help you get familiar
-  with everything in no time.
+subtitle: 毕业2021的思考
 date: 2020-12-13T00:00:00Z
 summary: Welcome 👋 We know that first impressions are important, so we've
   populated your new site with some initial content to help you get familiar
